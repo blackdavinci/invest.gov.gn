@@ -1,0 +1,165 @@
+
+.center-block {  
+  display: block;  
+  margin-right: auto;  
+  margin-left: auto;  
+} 
+.the-headline h1,h2{
+	margin-bottom:0px !important;
+}
+
+// HEADER CSS 
+
+#line-language{
+
+}
+.logoarea{
+	line-height: 16px !important;
+}
+
+ul.nav .dropdown{
+	z-index:3 !important;
+}
+
+#apip-txt p{
+	font-weight:300;
+	font-size:16px;
+	color: #006DB6;
+	position:relative;
+	top:10px;
+	font-weight: 700;
+	margin-top:10px;
+	margin-bottom:20px;
+}
+
+#line-othe{
+	position:relative;
+	top:16px;
+}
+
+#line-other p{
+	font-weight: 500;
+}
+
+
+.singMiddInfo{
+	border-left:1px solid gray;
+}
+#logoarea-right{
+	text-align: right;
+}
+@media (min-width: 768px){
+	.default-skin.header.on .navbar-default .navbar-nav>li {
+	    // padding: 23px 0px !important;
+	    padding:23px 5px !important;
+	}
+	.navbar-default .navbar-nav>li {
+	    // padding: 23px 0px !important;
+	    padding:23px 5px !important;
+	}
+}
+@media (max-width: 768px){
+	#small-logo{
+		display: none !important;
+	}
+	.navbar-default .navbar-nav>li i{
+		float: left;
+		position:relative;
+		top:-6px;
+	}
+	.navbar-default .navbar-nav>li {
+	    text-align: left !important;
+	}
+	#logoarea-right{
+		text-align:center;
+	}
+	#logo-img img{
+		margin:auto;
+	}
+}
+
+.recent-doc ul{
+	padding-left: 10px !important;
+}
+
+
+.recent-doc li{
+	list-style: none;
+}
+
+.mobile-menu-close{
+	padding-right:20px !important;
+}
+.slider-image{
+	padding-right:35px;
+}
+
+.tabs-style-linetriangle h1{
+	font-size:18px !important;
+}
+
+#small-logo{
+	display: none;
+	// margin-top:18px;
+	transition:all .4s
+}
+
+.default-skin.header.on .navbar-default .navbar-nav #small-logo, .navbar-default .navbar-nav #small-logo{
+	padding-top:0px !important;
+	padding-bottom:0px !important;
+	padding-top:5px !important;
+}
+.navbar-default{
+	background-color:white !important;
+}
+
+// .navbar-default .navbar-nav>.active a{
+// 	color:black;
+// }
+.navbar-default .navbar-nav>.li-on:hover{
+	border-top:4px solid #006DB6;	
+
+}
+.navbar-default .navbar-nav>.active{
+	background:white;
+	// background-color:#fbd008; 
+	border-top:6px solid #c61f0c;	
+}
+
+@media (min-width: 768px){
+	.navbar-default .navbar-nav>li i{
+		width: 100%;
+		text-align:center;
+		padding-bottom:5px;
+	}
+}
+.navbar-default .navbar-nav>li a{
+	font-size:12px !important;
+}
+header{
+	// background:#f8e827;
+}
+
+.activelangue{
+	font-weight: bold;
+	color:#c61f0c !important;
+}
+.textwidget p{
+	padding-left:0px;
+	padding-right:0px;
+	text-align:justify;
+}
+#logo-apip{
+	position: relative;
+	left: 20%;
+}
+#footer .inner {
+    padding: 50px 0 40px 0 !important;
+}
+#footer .widget-title-2 {
+	font-size:20px !important; 
+
+
+.filiere-list h5{
+	
+}

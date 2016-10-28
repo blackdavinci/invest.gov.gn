@@ -1,0 +1,17 @@
+
+
+.table-nobordered-top>thead>tr>th, .table-nobordered-top>tbody>tr>th, .table-nobordered-top>tfoot>tr>th, .table-nobordered-top>thead>tr>td, .table-nobordered-top>tbody>tr>td, .table-nobordered-top>tfoot>tr>td{
+	border:0px !important;
+	padding-right:5px;
+}
+
+.invoice {
+    position: relative;
+    background: #fff;
+    border: 0px solid #f4f4f4 !important; 
+    padding: 0px !important; 
+    margin: 10px 15px !important; 
+}
+.custom-page-header{
+	border-bottom:0px !important;
+}
